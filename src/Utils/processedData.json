@@ -1,0 +1,229 @@
+[
+  { "artistName": "Sigrid", "msPlayed": 25670294, "minsPlayed": 427.8382 },
+  { "artistName": "John Denver", "msPlayed": 24317087, "minsPlayed": 405.2848 },
+  { "artistName": "Muse", "msPlayed": 20912828, "minsPlayed": 348.5471 },
+  {
+    "artistName": "Andrew Lloyd Webber",
+    "msPlayed": 17608852,
+    "minsPlayed": 293.4809
+  },
+  { "artistName": "M83", "msPlayed": 16528834, "minsPlayed": 275.4806 },
+  { "artistName": "George Ezra", "msPlayed": 16052840, "minsPlayed": 267.5473 },
+  {
+    "artistName": "Future Islands",
+    "msPlayed": 15884115,
+    "minsPlayed": 264.7353
+  },
+  {
+    "artistName": "GoGo Penguin",
+    "msPlayed": 13329491,
+    "minsPlayed": 222.1582
+  },
+  {
+    "artistName": "La La Land Soundtrack",
+    "msPlayed": 13207066,
+    "minsPlayed": 220.1178
+  },
+  {
+    "artistName": "Grimethorpe Colliery Band",
+    "msPlayed": 12675225,
+    "minsPlayed": 211.2537
+  },
+  {
+    "artistName": "Júníus Meyvant",
+    "msPlayed": 12364831,
+    "minsPlayed": 206.0805
+  },
+  {
+    "artistName": "First Aid Kit",
+    "msPlayed": 11773898,
+    "minsPlayed": 196.2316
+  },
+  {
+    "artistName": "Michael Bublé",
+    "msPlayed": 10462726,
+    "minsPlayed": 174.3788
+  },
+  {
+    "artistName": "Susanne Sundfør",
+    "msPlayed": 8497518,
+    "minsPlayed": 141.6253
+  },
+  {
+    "artistName": "Black Dyke Band",
+    "msPlayed": 8453761,
+    "minsPlayed": 140.896
+  },
+  { "artistName": "Keane", "msPlayed": 8351171, "minsPlayed": 139.1862 },
+  {
+    "artistName": "Vampire Weekend",
+    "msPlayed": 7910255,
+    "minsPlayed": 131.8376
+  },
+  {
+    "artistName": "The World Of Brass Ensemble",
+    "msPlayed": 7454039,
+    "minsPlayed": 124.234
+  },
+  {
+    "artistName": "Herb Alpert & The Tijuana Brass Band",
+    "msPlayed": 7354414,
+    "minsPlayed": 122.5736
+  },
+  { "artistName": "Imogen Heap", "msPlayed": 6841348, "minsPlayed": 114.0225 },
+  { "artistName": "Waxahatchee", "msPlayed": 6746441, "minsPlayed": 112.4407 },
+  { "artistName": "Daði Freyr", "msPlayed": 6458468, "minsPlayed": 107.6411 },
+  { "artistName": "HAIM", "msPlayed": 6253639, "minsPlayed": 104.2273 },
+  { "artistName": "Anna Mieke", "msPlayed": 5372685, "minsPlayed": 89.5447 },
+  {
+    "artistName": "Phoebe Bridgers",
+    "msPlayed": 4746082,
+    "minsPlayed": 79.1014
+  },
+  { "artistName": "Wintergatan", "msPlayed": 4504403, "minsPlayed": 75.0734 },
+  { "artistName": "Daft Punk", "msPlayed": 3687586, "minsPlayed": 61.4598 },
+  {
+    "artistName": "Smith & Burrows",
+    "msPlayed": 3408934,
+    "minsPlayed": 56.8156
+  },
+  { "artistName": "Caribou", "msPlayed": 3393104, "minsPlayed": 56.5517 },
+  {
+    "artistName": "Mark Mothersbaugh",
+    "msPlayed": 3369372,
+    "minsPlayed": 56.1562
+  },
+  { "artistName": "Bon Iver", "msPlayed": 3313938, "minsPlayed": 55.2323 },
+  {
+    "artistName": "Cheryl Freeman",
+    "msPlayed": 3193931,
+    "minsPlayed": 53.2322
+  },
+  { "artistName": "SOAK", "msPlayed": 3098783, "minsPlayed": 51.6464 },
+  { "artistName": "Roger Bart", "msPlayed": 3080660, "minsPlayed": 51.3443 },
+  { "artistName": "Sia", "msPlayed": 3075215, "minsPlayed": 51.2536 },
+  { "artistName": "POLIÇA", "msPlayed": 2767596, "minsPlayed": 46.1266 },
+  { "artistName": "Villagers", "msPlayed": 2726771, "minsPlayed": 45.4462 },
+  { "artistName": "Joni Mitchell", "msPlayed": 2726332, "minsPlayed": 45.4389 },
+  { "artistName": "Orla Gartland", "msPlayed": 2711179, "minsPlayed": 45.1863 },
+  {
+    "artistName": "London Grammar",
+    "msPlayed": 2710465,
+    "minsPlayed": 45.1744
+  },
+  { "artistName": "Alan Menken", "msPlayed": 2683514, "minsPlayed": 44.7252 },
+  { "artistName": "Stereolab", "msPlayed": 2517369, "minsPlayed": 41.9562 },
+  { "artistName": "Freya Ridings", "msPlayed": 2516805, "minsPlayed": 41.9468 },
+  { "artistName": "Feist", "msPlayed": 2439578, "minsPlayed": 40.6596 },
+  { "artistName": "Arcade Fire", "msPlayed": 2382433, "minsPlayed": 39.7072 },
+  { "artistName": "Elliott Smith", "msPlayed": 2319865, "minsPlayed": 38.6644 },
+  { "artistName": "Cian Boylan", "msPlayed": 2206974, "minsPlayed": 36.7829 },
+  { "artistName": "Fleetwood Mac", "msPlayed": 2069637, "minsPlayed": 34.4939 },
+  {
+    "artistName": "Stephen Rennicks",
+    "msPlayed": 2065789,
+    "minsPlayed": 34.4298
+  },
+  {
+    "artistName": "Thoresby RJB Band",
+    "msPlayed": 2056073,
+    "minsPlayed": 34.2679
+  },
+  { "artistName": "Danny DeVito", "msPlayed": 1991522, "minsPlayed": 33.192 },
+  { "artistName": "Maggie Rogers", "msPlayed": 1968504, "minsPlayed": 32.8084 },
+  {
+    "artistName": "Johann Strauss II",
+    "msPlayed": 1959383,
+    "minsPlayed": 32.6564
+  },
+  { "artistName": "Wild Front", "msPlayed": 1955711, "minsPlayed": 32.5952 },
+  { "artistName": "Elbow", "msPlayed": 1927123, "minsPlayed": 32.1187 },
+  { "artistName": "Laura Marling", "msPlayed": 1886701, "minsPlayed": 31.445 },
+  {
+    "artistName": "Fergus McCreadie",
+    "msPlayed": 1858054,
+    "minsPlayed": 30.9676
+  },
+  { "artistName": "Andy Shauf", "msPlayed": 1853665, "minsPlayed": 30.8944 },
+  { "artistName": "Lucius", "msPlayed": 1848136, "minsPlayed": 30.8023 },
+  {
+    "artistName": "Fodens Courtois Band",
+    "msPlayed": 1813784,
+    "minsPlayed": 30.2297
+  },
+  { "artistName": "Metric", "msPlayed": 1781228, "minsPlayed": 29.6871 },
+  { "artistName": "Yazoo", "msPlayed": 1650363, "minsPlayed": 27.506 },
+  { "artistName": "ABBA", "msPlayed": 1649391, "minsPlayed": 27.4899 },
+  {
+    "artistName": "Sufjan Stevens",
+    "msPlayed": 1626514,
+    "minsPlayed": 27.1086
+  },
+  {
+    "artistName": "Sharon Van Etten",
+    "msPlayed": 1618657,
+    "minsPlayed": 26.9776
+  },
+  { "artistName": "Rusted Root", "msPlayed": 1588312, "minsPlayed": 26.4719 },
+  {
+    "artistName": "Chorus - Hercules",
+    "msPlayed": 1584961,
+    "minsPlayed": 26.416
+  },
+  { "artistName": "Elton John", "msPlayed": 1536012, "minsPlayed": 25.6002 },
+  {
+    "artistName": "Halifax Choral Society",
+    "msPlayed": 1449144,
+    "minsPlayed": 24.1524
+  },
+  { "artistName": "Ane Brun", "msPlayed": 1365897, "minsPlayed": 22.7649 },
+  { "artistName": "Radiohead", "msPlayed": 1342815, "minsPlayed": 22.3803 },
+  { "artistName": "Susan Egan", "msPlayed": 1342256, "minsPlayed": 22.3709 },
+  {
+    "artistName": "Bombay Bicycle Club",
+    "msPlayed": 1295585,
+    "minsPlayed": 21.5931
+  },
+  {
+    "artistName": "Florence + The Machine",
+    "msPlayed": 1289255,
+    "minsPlayed": 21.4876
+  },
+  { "artistName": "John Legend", "msPlayed": 1238263, "minsPlayed": 20.6377 },
+  { "artistName": "Stevie Wonder", "msPlayed": 1230326, "minsPlayed": 20.5054 },
+  { "artistName": "David Bowie", "msPlayed": 1225324, "minsPlayed": 20.4221 },
+  { "artistName": "Friedberg", "msPlayed": 1213196, "minsPlayed": 20.2199 },
+  { "artistName": "Phil Collins", "msPlayed": 1188505, "minsPlayed": 19.8084 },
+  { "artistName": "Pulp", "msPlayed": 1167141, "minsPlayed": 19.4523 },
+  { "artistName": "CHVRCHES", "msPlayed": 1144239, "minsPlayed": 19.0707 },
+  { "artistName": "Queen", "msPlayed": 1119492, "minsPlayed": 18.6582 },
+  {
+    "artistName": "Childish Gambino",
+    "msPlayed": 1118058,
+    "minsPlayed": 18.6343
+  },
+  { "artistName": "Lea Salonga", "msPlayed": 1115945, "minsPlayed": 18.5991 },
+  { "artistName": "TOTO", "msPlayed": 1113380, "minsPlayed": 18.5563 },
+  { "artistName": "Hans Zimmer", "msPlayed": 1085314, "minsPlayed": 18.0886 },
+  {
+    "artistName": "The Temper Trap",
+    "msPlayed": 1084362,
+    "minsPlayed": 18.0727
+  },
+  { "artistName": "Primal Scream", "msPlayed": 1071878, "minsPlayed": 17.8646 },
+  {
+    "artistName": "The Beach Boys",
+    "msPlayed": 1038390,
+    "minsPlayed": 17.3065
+  },
+  { "artistName": "Paul Simon", "msPlayed": 976342, "minsPlayed": 16.2724 },
+  { "artistName": "Lisa Hannigan", "msPlayed": 976102, "minsPlayed": 16.2684 },
+  { "artistName": "Aslan", "msPlayed": 971253, "minsPlayed": 16.1876 },
+  { "artistName": "KH", "msPlayed": 962183, "minsPlayed": 16.0364 },
+  { "artistName": "The Shins", "msPlayed": 952945, "minsPlayed": 15.8824 },
+  { "artistName": "Nick Drake", "msPlayed": 945618, "minsPlayed": 15.7603 },
+  { "artistName": "Looking Glass", "msPlayed": 933945, "minsPlayed": 15.5657 },
+  { "artistName": "Toploader", "msPlayed": 930611, "minsPlayed": 15.5102 },
+  { "artistName": "Kristen Bell", "msPlayed": 915923, "minsPlayed": 15.2654 },
+  { "artistName": "Four Tet", "msPlayed": 909915, "minsPlayed": 15.1653 }
+]
